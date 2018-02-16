@@ -1,0 +1,21 @@
+PODS:
+  - CommonCrypto (1.1)
+  - CryptoSwift (0.8.1)
+  - RNCryptor (5.0.2)
+  - SwiftHash (2.0.1)
+
+DEPENDENCIES:
+  - CommonCrypto
+  - CryptoSwift
+  - RNCryptor
+  - SwiftHash
+
+SPEC CHECKSUMS:
+  CommonCrypto: e18c8416332cca5efe80c197f2a522d471c42626
+  CryptoSwift: 4b07d5b508c1eb67bfa314a727b705f8048a85de
+  RNCryptor: 59b9f92e9fa8a1af74c32dc6b1af5e30ff5e1b64
+  SwiftHash: c805de5a434eacfa0dac7210745a50c55d7fe33d
+
+PODFILE CHECKSUM: f15eaa390521b86ede90d29194634e14640a12f9
+
+COCOAPODS: 1.4.0
